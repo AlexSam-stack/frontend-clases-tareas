@@ -1,0 +1,8 @@
+ejercicios realizados
+FÁCIL Replica la clase, hasta donde llegamos, con la grabación al lado. Es LA tarea.
+
+INTERMEDIO La página /pedidos con las capas: vive en ui/pages, lee con leerPedidos() de
+infraestructura, jamás toca localStorage directo.
+
+DIFÍCIL Favoritos globales: FavoritosContext + useFavoritos calcados del carrito; corazón en la tarjeta,
+contador en el header, persistencia en almacen.ts comprobando al leer.
