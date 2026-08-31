@@ -1,0 +1,9 @@
+se resolviero de la clase 5.....
++ ejercicio 
+INTERMEDIO Tu skeleton fiel: mismos bloques que tu tarjeta real + motion-reduce:animate-none.
+INTERMEDIO El detalle completo: tu campo extra de la API en la página de detalle + el título de la pestaña
+con el nombre del producto.
+DIFÍCIL Mis pedidos: la página /pedidos que lee lo guardado por el checkout (con aduana) y lista
+fecha, items y total — con su estado vacío.
+
+todo esta en la carpeta react
